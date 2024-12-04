@@ -21,7 +21,3 @@ This project provides an interactive analysis and visualization of a survey cond
 - Visualization: Power BI (used for dashboard creation)
 - Data Source: Survey responses collected from data professionals working in the field of data science.
 
-## Getting Started
-1. Clone the repository:
-   `bash
-   git clone https://github.com/your-username/your-repo-name.git
